@@ -4,7 +4,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-image: url(img.webp);
+    background-image: url("../static/images/img.webp") no-repeat;
 }
 
 h2 {
